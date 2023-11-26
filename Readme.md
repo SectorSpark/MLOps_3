@@ -15,5 +15,5 @@
 
 Была выбрана задача предсказания цены. Все параметры и метрики экспериментов сохранены в mlflow. Ниже приложены скриншоты web UI mlflow.
 
-![Скриншот 1](path/to/screenshot1.png)
-![Скриншот 2](path/to/screenshot2.png)
+![Скриншот 1](path/to/screenshot1.jpg)
+![Скриншот 2](path/to/screenshot2.jpg)
