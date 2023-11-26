@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/89e5f563aa9548dbb0fea551f7485212/artifacts
+end_time: 1701007266099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89e5f563aa9548dbb0fea551f7485212
+run_name: placid-sloth-396
+run_uuid: 89e5f563aa9548dbb0fea551f7485212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701007262930
+status: 4
+tags: []
+user_id: nokto

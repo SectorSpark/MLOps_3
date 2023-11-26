@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b85589abf2444cfd8648d0881585e3a6/artifacts
+end_time: 1701007817909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b85589abf2444cfd8648d0881585e3a6
+run_name: zealous-perch-451
+run_uuid: b85589abf2444cfd8648d0881585e3a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701007814215
+status: 3
+tags: []
+user_id: nokto

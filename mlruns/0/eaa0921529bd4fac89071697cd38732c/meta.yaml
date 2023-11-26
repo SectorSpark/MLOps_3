@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eaa0921529bd4fac89071697cd38732c/artifacts
+end_time: 1701007678788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaa0921529bd4fac89071697cd38732c
+run_name: learned-boar-151
+run_uuid: eaa0921529bd4fac89071697cd38732c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701007675416
+status: 3
+tags: []
+user_id: nokto

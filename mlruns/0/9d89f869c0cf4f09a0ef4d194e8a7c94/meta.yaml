@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d89f869c0cf4f09a0ef4d194e8a7c94/artifacts
+end_time: 1701007414333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d89f869c0cf4f09a0ef4d194e8a7c94
+run_name: trusting-smelt-932
+run_uuid: 9d89f869c0cf4f09a0ef4d194e8a7c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701007410809
+status: 3
+tags: []
+user_id: nokto

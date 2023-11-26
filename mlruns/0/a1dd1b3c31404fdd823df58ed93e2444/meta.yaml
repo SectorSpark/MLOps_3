@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a1dd1b3c31404fdd823df58ed93e2444/artifacts
+end_time: 1701007465631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1dd1b3c31404fdd823df58ed93e2444
+run_name: defiant-crane-5
+run_uuid: a1dd1b3c31404fdd823df58ed93e2444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701007462172
+status: 3
+tags: []
+user_id: nokto

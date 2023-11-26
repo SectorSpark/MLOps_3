@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f7d7e5aa3c38457cb67a69551b02f661/artifacts
+end_time: 1701007838055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7d7e5aa3c38457cb67a69551b02f661
+run_name: inquisitive-seal-676
+run_uuid: f7d7e5aa3c38457cb67a69551b02f661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701007834677
+status: 3
+tags: []
+user_id: nokto
