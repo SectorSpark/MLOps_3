@@ -12,12 +12,12 @@ def train_xgb_model(X_train, y_train):
         # Log parameters
         mlflow.log_param("colsample_bytree", 0.3)
         mlflow.log_param("learning_rate", 0.15)
-        mlflow.log_param("max_depth", 4)
+        mlflow.log_param("max_depth", 8)
         mlflow.log_param("alpha", 10)
-        mlflow.log_param("n_estimators", 600)
+        mlflow.log_param("n_estimators", 400)
 
         model = xgb.XGBRegressor(objective='reg:squarederror', colsample_bytree=0.4, learning_rate=0.05,
-                                 max_depth=4, alpha=10, n_estimators=600)
+                                 max_depth=8, alpha=10, n_estimators=400)
         
         model.fit(X_train, y_train)
 

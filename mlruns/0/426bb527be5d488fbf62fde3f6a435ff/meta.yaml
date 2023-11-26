@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/426bb527be5d488fbf62fde3f6a435ff/artifacts
+end_time: 1701009245326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 426bb527be5d488fbf62fde3f6a435ff
+run_name: judicious-moose-954
+run_uuid: 426bb527be5d488fbf62fde3f6a435ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701009241346
+status: 3
+tags: []
+user_id: nokto

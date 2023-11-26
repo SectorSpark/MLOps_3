@@ -1,0 +1,10 @@
+python
+
+# Библиотеки для работы с ML и данными
+pandas
+xgboost
+scikit-learn
+
+# Библиотеки для работы с MLflow и Airflow
+mlflow
+apache-airflow
